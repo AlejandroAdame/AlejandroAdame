@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Alejandro Adame Barriga
 
 ## Sobre mí
-¡Bienvenido a mi rincón en GitHub! Soy un chico de 21 años que está dando sus primeros pasos en el mundo de la programación. Actualmente, estoy cursando el primer año de Desarrollo de Aplicaciones Multiplataforma (**1ºDAM**).
+¡Bienvenido a mi rincón en GitHub! Soy un chico de 21 años que está dando sus primeros pasos en el mundo de la programación. 
 
 
 ## ¿Cómo puedes contactarme? 
